@@ -1,1 +1,1 @@
-# CSE423_assignment1
+# CSE423_OPENGL
